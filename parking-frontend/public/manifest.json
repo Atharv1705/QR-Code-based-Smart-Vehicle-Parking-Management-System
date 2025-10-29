@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "QR Parking",
+  "name": "QR based Smart Parking System",
   "icons": [
     {
       "src": "favicon.ico",
